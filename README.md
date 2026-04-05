@@ -7,7 +7,7 @@ I build enterprise-grade backend systems in **C#/.NET** and **Angular**, and hac
 ### What I'm working on
 
 - 🏗️ **At work** — Role-based access control, compliance pipelines, and tax calculation engines on a Fortune 500 enterprise platform (C#/.NET, Angular, SQL Server, Azure)
-- 🧩 **Side projects** — Pathfinding visualizers, full-stack apps, and exploring AI/LLM orchestration
+- 🧩 **Side projects** — Full-stack mobile apps, pathfinding visualizers, and exploring AI/LLM orchestration
 - 📚 **Learning** — System design, distributed systems, and grinding LeetCode in C++
 
 ### Tech I work with
@@ -15,16 +15,18 @@ I build enterprise-grade backend systems in **C#/.NET** and **Angular**, and hac
 ```
 Backend     C#/.NET · Java/Spring Boot · Python · REST APIs · Entity Framework Core
 Frontend    Angular · React · TypeScript · RxJS
-Data        SQL Server · PostgreSQL · T-SQL
+Data        SQL Server · PostgreSQL · T-SQL · IndexedDB (Dexie.js)
 Cloud       Azure (App Service, Functions) · Azure DevOps · CI/CD
-Tools       Git · xUnit · Postman · Docker
+Mobile      Capacitor · Android
+Tools       Git · xUnit · Playwright · Postman · Docker
 ```
 
 ### Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**MazeRunner**](https://github.com/JadeEye21/MazeRunner) | Interactive maze generator + BFS/DFS pathfinding visualizer | Python, Pygame, NumPy |
+| [**Ruchkar Udyog**](https://github.com/JadeEye21/festive-catalog) | Offline-first inventory & invoicing Android app for a home food business — Google Sheets cloud sync, 40+ E2E tests | React, TypeScript, Capacitor, Dexie.js, Tailwind |
+| [**MazeRunner**](https://github.com/JadeEye21/MazeRunner) | Interactive maze generator + BFS/DFS pathfinding visualizer with checkpoint routing | Python, Pygame, NumPy |
 
 ### Let's connect
 
